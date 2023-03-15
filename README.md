@@ -5,7 +5,7 @@
 ### output: html file
 
 
-###### Javascript practices
+###### Javascript practice
 
 
 
