@@ -21,11 +21,11 @@
 
 
 Github repo link:
-git@github.com:FernyCastro8/Ferny_Password_Generator_Mod3_Javascript.git
+git@github.com:FernyCastro8/Password_Generator_Mod3.git
 
 
 Url link:
-https://fernycastro8.github.io/Ferny_Password_Generator_Mod3_Javascript/
+
 
 
 
