@@ -19,13 +19,14 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+## Websites
 
 Github repo link:
-git@github.com:FernyCastro8/Password_Generator_Mod3.git
+https://github.com/FernyCastro8/Password_Generator_Mod3.git
 
 
 Url link:
-
+https://fernycastro8.github.io/Password_Generator_Mod3/s
 
 
 

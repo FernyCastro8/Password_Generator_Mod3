@@ -84,4 +84,7 @@ generateBtn.addEventListener("click", writePassword);
 
 
 
+// Password Generator finished !
+
+
 
