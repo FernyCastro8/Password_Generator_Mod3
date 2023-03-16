@@ -5,7 +5,7 @@
 ### output: html file
 
 
-###### Javascript practice
+###### Javascript practices
 
 
 
@@ -19,14 +19,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-## Websites
 
 Github repo link:
-https://github.com/FernyCastro8/Password_Generator_Mod3.git
+git@github.com:FernyCastro8/Ferny_Password_Generator_Mod3_Javascript.git
 
 
 Url link:
-https://fernycastro8.github.io/Password_Generator_Mod3/s
+https://fernycastro8.github.io/Ferny_Password_Generator_Mod3_Javascript/
 
 
 
